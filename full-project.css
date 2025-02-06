@@ -132,7 +132,7 @@ body {
             header{
                     height: 0;
                 }
-                i{z-index: 1111;}
+                i{z-index: 11111;}
                 .humberger{
                     display: flex;
                     justify-content: center;
